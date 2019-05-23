@@ -1,0 +1,10 @@
+{
+  "name": "tempearly.js",
+  "version": "0.0.0-alpha",
+  "description": "A tiny template engine for on-page-use with JavaScript.",
+  "main": "src/tempearly.js",
+  "repository": "git@github.com:MCStreetguy/tempearly.js.git",
+  "author": "Maximilian Schmidt <maximilianschmidt404@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
